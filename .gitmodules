@@ -1,0 +1,6 @@
+[submodule "lexer"]
+	path = lexer
+	url = git@github.com:salustiana/lexer.git
+[submodule "parser"]
+	path = parser
+	url = git@github.com:salustiana/parser.git
